@@ -1,0 +1,19 @@
+##############################
+#   Pierre Feuille Ciseaux   #
+#     par Enzo Beauchamp     #
+#      Version : 1.0.3       #
+##############################
+
+- Contenu des versions précédentes
+
+- Programme :
+	- Organisation des variables
+	- Regroupement de fonctions
+
+- Ajout :
+	- Sauvegarde des statistiques
+		- Parties jouées
+		- Parties gagnées
+		- Temps de jeu
+	- Classement général : top 3
+		
